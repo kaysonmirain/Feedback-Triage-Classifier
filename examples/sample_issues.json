@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "title": "App crashes on login",
+    "text": "Every time I tap Sign In with Google the app closes immediately on iOS 17. This started after the last update.",
+    "label": "Bug Report",
+    "source": "hand_labeled"
+  },
+  {
+    "id": 2,
+    "title": "Dark mode for dashboard",
+    "text": "It would be great to have a dark theme option for the analytics dashboard. My eyes hurt during late-night reviews.",
+    "label": "Feature Request",
+    "source": "hand_labeled"
+  },
+  {
+    "id": 3,
+    "title": "Screen reader cannot read chart labels",
+    "text": "VoiceOver skips the bar chart labels in the reports page, so I cannot understand the data without sighted help.",
+    "label": "Accessibility Concern",
+    "source": "hand_labeled"
+  },
+  {
+    "id": 4,
+    "title": "How do I export CSV?",
+    "text": "Where is the export button for monthly usage data? I checked Settings but couldn't find it.",
+    "label": "Question",
+    "source": "hand_labeled"
+  },
+  {
+    "id": 5,
+    "title": "Love the new onboarding",
+    "text": "The redesigned onboarding flow is smooth and friendly. Nice work team!",
+    "label": "Other",
+    "source": "hand_labeled"
+  },
+  {
+    "id": 6,
+    "title": "Search returns wrong results",
+    "text": "Searching for 'billing' shows unrelated archived tickets from 2019. Sort order also seems random.",
+    "label": "Bug Report",
+    "source": "hand_labeled"
+  },
+  {
+    "id": 7,
+    "title": "Slack integration",
+    "text": "Please add a native Slack integration so alerts post directly to our incident channel.",
+    "label": "Feature Request",
+    "source": "hand_labeled"
+  },
+  {
+    "id": 8,
+    "title": "Keyboard trap in modal",
+    "text": "When the delete confirmation modal opens, Tab key cannot reach the Cancel button and focus never leaves the dialog properly.",
+    "label": "Accessibility Concern",
+    "source": "hand_labeled"
+  },
+  {
+    "id": 9,
+    "title": "API rate limits",
+    "text": "What are the current API rate limits for the Pro plan? Documentation mentions 1000/hour but the dashboard says 500.",
+    "label": "Question",
+    "source": "hand_labeled"
+  },
+  {
+    "id": 10,
+    "title": "Random spam",
+    "text": "Buy cheap followers at www.example-spam.test — best prices guaranteed!!!",
+    "label": "Other",
+    "source": "hand_labeled"
+  },
+  {
+    "id": 11,
+    "title": "Timezone display bug",
+    "text": "Scheduled reports show UTC timestamps even when my profile timezone is set to America/Chicago.",
+    "label": "Bug Report",
+    "source": "hand_labeled"
+  },
+  {
+    "id": 12,
+    "title": "Bulk edit tickets",
+    "text": "We need bulk status updates for triage queues with more than 50 items at once.",
+    "label": "Feature Request",
+    "source": "hand_labeled"
+  },
+  {
+    "id": 13,
+    "title": "Low contrast warning badges",
+    "text": "The orange warning badge on white background fails WCAG contrast requirements and is hard to read.",
+    "label": "Accessibility Concern",
+    "source": "hand_labeled"
+  },
+  {
+    "id": 14,
+    "title": "SSO setup steps",
+    "text": "Can you clarify whether SAML metadata upload is required before enabling SSO for Okta?",
+    "label": "Question",
+    "source": "hand_labeled"
+  },
+  {
+    "id": 15,
+    "title": "Off-topic conference note",
+    "text": "See you at the product meetup next Thursday — I'll bring stickers.",
+    "label": "Other",
+    "source": "hand_labeled"
+  }
+]
