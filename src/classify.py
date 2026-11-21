@@ -88,7 +88,6 @@ def _call_anthropic(text: str, api_key: str, model: str) -> str:
     response = client.messages.create(
         model=model,
         max_tokens=256,
-        temperature=0,
         system=SYSTEM_PROMPT,
         messages=[{"role": "user", "content": USER_PROMPT_TEMPLATE.format(text=text)}],
     )
@@ -131,7 +130,7 @@ def classify_text(
             model
             or os.environ.get("ANTHROPIC_MODEL")
             or os.environ.get("LLM_MODEL")
-            or "claude-3-5-haiku-latest"
+            or "claude-haiku-4-5-20251001"
         )
         if not resolved_key:
             raise ValueError(
